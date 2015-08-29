@@ -1,0 +1,16 @@
+{
+  "endpoint":{
+    "method":"POST",
+    "url":"http://127.0.0.1/info.php?key={key}&value={value}&foo={bar}"
+  },
+  "data":[
+    {
+      "key":"Azureus",
+      "value":"Dendrobates"
+    },
+    {
+      "key":"Phyllobates",
+      "value":"Terribilis"
+    }
+  ]
+}

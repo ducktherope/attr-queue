@@ -1,0 +1,8 @@
+{
+  "server":"45.55.41.115",
+  "maxactivetasks":"30",
+  "queueAttribute":"attr-queue",
+  "queueLog":"attr-log-queue",
+  "queueLogError":"attr-error-queue",
+  "queueLogStat":"attr-stat-queue"
+}

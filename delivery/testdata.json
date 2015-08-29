@@ -1,0 +1,16 @@
+{
+  "endpoint":{
+    "method":"GET",
+    "url":"http://sample_domain_endpoint.com/data?key={key}&value={value}&foo={bar}"
+  },
+  "data":[
+    {
+      "key":"Azureus",
+      "value":"Dendrobates"
+    },
+    {
+      "key":"Phyllobates",
+      "value":"Terribilis"
+    }
+  ]
+}
